@@ -1,0 +1,13 @@
+Date,Item,UPC,Item,Current Units,Current Sales,Current Weight
+2024-07-21,13896 - COOKIES & CREAM CAKE POP,13896,COOKIES & CREAM CAKE POP,1,3.25,1
+
+Date:           str     YYYY-MM-DD
+Item:           str     ##### - [Item name]
+UPC:            int     ##### or ###########
+Item:           str     [Item name]
+Current Units:  int     ##
+Current Sales:  float   ###.##
+Current Weight: int     ##
+
+Procedure:
+1.  
